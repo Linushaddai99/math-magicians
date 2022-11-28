@@ -172,7 +172,7 @@ Example command:
 
 <!-- > Mention all of the collaborators of this project. -->
 
-👤 **Bhaskar Ranjan Bora**
+👤 **Linus Shaddai**
 
 - GitHub: [@linushaddai99](https://github.com/linushaddai99)
 - Twitter: [@linushaddai99](https://twitter.com/linushaddai99)
