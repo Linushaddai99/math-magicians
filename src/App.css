@@ -8,6 +8,11 @@
 .calculator-div button {
   padding: 20px;
   border: 1px solid gainsboro;
+  cursor: pointer;
+}
+
+.calculator-div button:hover {
+  opacity: 0.6;
 }
 
 .result {
@@ -15,6 +20,7 @@
   text-align: right;
   background-color: gray;
   padding: 20px;
+  height: 20px;
   color: white;
 }
 
