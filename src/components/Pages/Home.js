@@ -1,7 +1,8 @@
 import React from 'react';
+// import { Link } from 'react-router-dom';
 
 const Home = () => (
-  <div>
+  <div className="container" id="home-page">
     <h2>Welcome to our Page!</h2>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit.

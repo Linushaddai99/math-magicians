@@ -8,14 +8,14 @@ import CalculatorPage from './components/Pages/CalculatorPage';
 import Navbar from './Navbar';
 
 const App = () => (
-  <>
+  <div>
     <Navbar />
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="/calculator" element={<CalculatorPage />} />
       <Route path="/quote" element={<Quote />} />
     </Routes>
-  </>
+  </div>
 
 );
 
