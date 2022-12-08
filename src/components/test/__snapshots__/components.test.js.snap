@@ -1,0 +1,732 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="container"
+  id="calc-page"
+>
+  <h2>
+    Lets Do some Maths!
+  </h2>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="result"
+    >
+      <span>
+        0
+      </span>
+      <span />
+      <span />
+    </div>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 2`] = `
+<div
+  className="container"
+  id="calc-page"
+>
+  <h2>
+    Lets Do some Maths!
+  </h2>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="result"
+    >
+      <span>
+        0
+      </span>
+      <span />
+      <span />
+    </div>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 3`] = `
+<div
+  className="container"
+  id="calc-page"
+>
+  <h2>
+    Lets Do some Maths!
+  </h2>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="result"
+    >
+      <span>
+        0
+      </span>
+      <span />
+      <span />
+    </div>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing components renders  correctly 1`] = `
+<div
+  className="container"
+  id="home-page"
+>
+  <h2>
+    Welcome to our Page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque quaerat possimus ad. Cumque quas nemo voluptas, fugit vitae recusandae numquam dolore architecto
+     
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque.
+  </p>
+</div>
+`;
+
+exports[`testing components renders correctly 1`] = `
+<div
+  className="container"
+  id="calc-page"
+>
+  <h2>
+    Lets Do some Maths!
+  </h2>
+  <div
+    className="calculator-div"
+  >
+    <div
+      className="result"
+    >
+      <span>
+        0
+      </span>
+      <span />
+      <span />
+    </div>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="undefined"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="orange"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing components renders correctly 2`] = `
+<div
+  className="container"
+  id="home-page"
+>
+  <h2>
+    Welcome to our Page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque quaerat possimus ad. Cumque quas nemo voluptas, fugit vitae recusandae numquam dolore architecto
+     
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque.
+  </p>
+</div>
+`;
+
+exports[`testing components renders correctly 3`] = `
+<div
+  className="container"
+  id="quote-page"
+>
+  <p>
+    Mathematics is not just about numbers, equations, components or algorithms: it is about understanding. - William Paul Thurston
+  </p>
+</div>
+`;
+
+exports[`testing components renders correctly 4`] = `
+<a
+  href="/"
+>
+  Home
+</a>
+`;
+
+exports[`testing components renders the Navbar component correctly 1`] = `
+<a
+  href="/"
+>
+  Home
+</a>
+`;
+
+exports[`testing components renders the home component correctly 1`] = `
+<div
+  className="container"
+  id="home-page"
+>
+  <h2>
+    Welcome to our Page!
+  </h2>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque quaerat possimus ad. Cumque quas nemo voluptas, fugit vitae recusandae numquam dolore architecto
+     
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quibusdam, tenetur illum provident unde mollitia animi consequuntur aut eius quia. Incidunt, fugit et adipisci, delectus rem accusantium harum iste voluptatum exercitationem necessitatibus quam! Iusto nihil porro voluptas vitae est ducimus nisi quaerat ipsa, culpa dolorem impedit aperiam id incidunt obcaecati eligendi dolor officiis. Deserunt dolore ullam tempora consequuntur dolores minima praesentium hic quod tenetur at, officia expedita aliquam cumque.
+  </p>
+</div>
+`;
+
+exports[`testing components renders the home component correctly 2`] = `
+<div
+  className="container"
+  id="quote-page"
+>
+  <p>
+    Mathematics is not just about numbers, equations, components or algorithms: it is about understanding. - William Paul Thurston
+  </p>
+</div>
+`;
+
+exports[`testing components renders the quote component correctly 1`] = `
+<div
+  className="container"
+  id="quote-page"
+>
+  <p>
+    Mathematics is not just about numbers, equations, components or algorithms: it is about understanding. - William Paul Thurston
+  </p>
+</div>
+`;
